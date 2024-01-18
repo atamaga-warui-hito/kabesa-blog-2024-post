@@ -4,12 +4,6 @@
     "src": "/assets/360x540.png"
   },
   "contentURL": "/contents/test2.md",
-  "authors": [
-    "Biacco42",
-    "ddb"
-  ],
-  "tags": [
-    "product",
-    "keyboard"
-  ]
+  "authors": ["Biacco42", "ddb"],
+  "tags": ["product", "keyboard"]
 }
